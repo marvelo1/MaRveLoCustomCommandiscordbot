@@ -8,6 +8,6 @@ index.js
 
 
 SUPPORT SERVER 
-https://discord.gg/QjwMeFQgX8
+https://discord.gg/cCVms9GWZ8
 
 Enjoy <3 
